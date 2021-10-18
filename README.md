@@ -11,11 +11,11 @@
 
 ## CAD_Swing_Arm 
 
-### Assignment Description
+### Description
 
 This assignment asked me to replicate a swing arm part from a set of drawings. The assignment style is similar to a portion of the Onshape Associate Certification test.
 
-### Evidence 
+### Pictures 
 
 Configuration #1
 
@@ -28,7 +28,7 @@ Configuration #2
 Credit for the pictures goes to
 
 [millerm22](https://github.com/millerm22)
-### Part Link
+### Link
 [Swing Arm Part](https://cvilleschools.onshape.com/documents/e353807ba7e587d436412646/w/c19efe9f27fba69a69b56a1b/e/0c2ff10114b5de050efd034b)
 
 
