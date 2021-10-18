@@ -15,6 +15,8 @@
 Ths part is the base of the skateboard one would stand on.
 ### Picture
 
+![Deck](/deck.png)
+
 ### Link
 
 [Document](https://cvilleschools.onshape.com/documents/7d7c99d7713d562d2ec6435f/w/ed540bc54d34140531a987b5/e/5a733f9b518e3d6235382ca9?renderMode=0&uiState=616dc8b0a2329723abe91423)
@@ -27,6 +29,9 @@ This represents the bottom part of he skateboard which cpnnects the wheels and s
 ### Description
 
 ### Picture
+
+![Trucks](/Trucks.png)
+
 
 ### Link
 
@@ -43,6 +48,9 @@ This is the wheels and the bearings for the assembly
 
 ### Picture
 
+![Wheel](/Wheel.png)
+
+
 ### Link
 
 [Document](https://cvilleschools.onshape.com/documents/7d7c99d7713d562d2ec6435f/w/ed540bc54d34140531a987b5/e/5a733f9b518e3d6235382ca9?renderMode=0&uiState=616dc8b0a2329723abe91423)
@@ -55,6 +63,9 @@ This is the combination of all of the parts
 ### Description
 
 ### Picture
+
+![Assembly](/assembly.png)
+
 
 ### Link
 
@@ -69,6 +80,9 @@ This added a logo as well as the addition of a bend in the board
 ### Description
 
 ### Picture
+
+![Additions](/Final.png)
+
 
 ### Link
 
