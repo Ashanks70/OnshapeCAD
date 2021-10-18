@@ -25,9 +25,9 @@ Ths part is the base of the skateboard one would stand on.
 The base was very simple to make it was simple a few rectangles and 2 circles with holes in them.
 
 ## Trucks
-This represents the bottom part of he skateboard which cpnnects the wheels and skateboard
-### Description
 
+### Description
+This represents the bottom part of he skateboard which cpnnects the wheels and skateboard
 ### Picture
 
 ![Trucks](/Trucks.png)
@@ -43,9 +43,9 @@ During the trucks I made a mistake at some point and learned the important diffe
 
 
 ## Wheels
-This is the wheels and the bearings for the assembly
-### Description
 
+### Description
+This is the wheels and the bearings for the assembly
 ### Picture
 
 ![Wheel](/Wheel.png)
@@ -59,9 +59,10 @@ This is the wheels and the bearings for the assembly
 The wheels were very simple and quick to make.
 
 ## Assembly
-This is the combination of all of the parts
+
 ### Description
 
+This is the combination of all of the parts
 ### Picture
 
 ![Assembly](/assembly.png)
@@ -76,9 +77,10 @@ The assembly was very simple to put together. I liked the batch fill option on O
 
 
 ## Additions
-This added a logo as well as the addition of a bend in the board
+
 ### Description
 
+This added a logo as well as the addition of a bend in the board
 ### Picture
 
 ![Additions](/Final.png)
