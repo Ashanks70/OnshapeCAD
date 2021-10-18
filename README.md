@@ -6,7 +6,34 @@
 * [Deck](#Deck)
 * [Trucks](#Trucks)
 * [Wheels](#Wheels)
+* [CAD_Swing_Arm](#CAD_Swing_Arm)
 
+
+## CAD_Swing_Arm 
+
+### Assignment Description
+
+This assignment asked me to replicate a swing arm part from a set of drawings. The assignment style is similar to a portion of the Onshape Associate Certification test.
+
+### Evidence 
+
+Configuration #1
+
+![Screenshot 2021-10-13 10 10 05 PM](https://user-images.githubusercontent.com/89222808/137238893-1fb00671-a56e-4945-a0b9-d2524f2dbd67.png)
+
+Configuration #2
+
+![Screenshot 2021-10-13 10 09 47 PM](https://user-images.githubusercontent.com/89222808/137238944-1d552151-7784-423e-88ad-8f4976325d97.png)
+
+Credit for the pictures goes to
+
+[millerm22](https://github.com/millerm22)
+### Part Link
+[Swing Arm Part](https://cvilleschools.onshape.com/documents/e353807ba7e587d436412646/w/c19efe9f27fba69a69b56a1b/e/0c2ff10114b5de050efd034b)
+
+
+### Reflection
+This assignment was very hard and took me a long time to finish it. I hope to improve greatly by the onshape certification exam.
 # Skateboard
 
 ## Deck
