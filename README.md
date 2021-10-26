@@ -39,7 +39,7 @@ This assignment was very hard and took me a long time to finish it. I hope to im
 ## Deck
 
 ### Description
-Ths part is the base of the skateboard one would stand on.
+Ths part is the base of the skateboard one would stand on. it was a hole toll and 2 circles combined with a rectangle.
 ### Picture
 
 ![Deck](/deck.png)
@@ -49,12 +49,12 @@ Ths part is the base of the skateboard one would stand on.
 [Document](https://cvilleschools.onshape.com/documents/7d7c99d7713d562d2ec6435f/w/ed540bc54d34140531a987b5/e/5a733f9b518e3d6235382ca9?renderMode=0&uiState=616dc8b0a2329723abe91423)
 
 ### Reflection
-The base was very simple to make it was simple a few rectangles and 2 circles with holes in them.
+The base was very simple to make it was simple a few rectangles and 2 circles with holes in them. The two useful shortcuts were n and p for toggles planes and normal to.
 
 ## Trucks
 
 ### Description
-This represents the bottom part of he skateboard which cpnnects the wheels and skateboard
+This represents the bottom part of he skateboard which connects the wheels and skateboard. it was a large quantity of extrusions and circles as well as a handful of fillets.
 ### Picture
 
 ![Trucks](/Trucks.png)
