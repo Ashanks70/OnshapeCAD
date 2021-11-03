@@ -7,7 +7,7 @@
 * [Deck](#Deck)
 * [Trucks](#Trucks)
 * [Wheels](#Wheels)
-* [Lego pieces](#Lego pieces)
+* [Lego pieces](#Lego_pieces)
 * [Configurations](#Configurations)
 * [Duck](#Duck)
 
@@ -125,7 +125,7 @@ this part was a little confusing and it took me a little bit to figure out how t
 
 
 
-## Lego pieces
+## Lego_pieces
 
 ### Description
 Just a simple red Lego brick with a linear pattern and an extrude with a fillet
