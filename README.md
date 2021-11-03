@@ -119,3 +119,45 @@ This added a logo as well as the addition of a bend in the board
 
 ### Reflection
 this part was a little confusing and it took me a little bit to figure out how to embed it into the board but the cut tool was easy to use.
+
+
+
+## Lego pieces
+
+### Description
+Just a simple red Lego brick with a linear pattern and an extrude with a fillet
+### Picture
+
+### Link
+
+[document](https://cvilleschools.onshape.com/documents/c7d7475abdd148eda882e2c0/w/ddaf50f9af35df975fd694a6/e/4f755a69f033e046510ba956)
+
+### Reflection
+This part was quick to make the only new part was the introduction of a few variables
+
+
+## Configurations
+
+### Description
+the settings to make it any required size were made so you can have any type of piece
+### Picture
+
+### Link
+
+[document](https://cvilleschools.onshape.com/documents/c7d7475abdd148eda882e2c0/w/ddaf50f9af35df975fd694a6/e/4f755a69f033e046510ba956)
+
+### Reflection
+this part was more complicated because I needed to learn to use configurations and learned that one must click the setting they wish to put into it and not just the part as a whole.
+
+## Lego pieces
+
+### Description
+
+### Picture
+
+### Link
+
+[document](https://cvilleschools.onshape.com/documents/c7d7475abdd148eda882e2c0/w/ddaf50f9af35df975fd694a6/e/4f755a69f033e046510ba956)
+
+### Reflection
+the assembly was a tad weird but snap mode was not hard outside of the failure of snapping which happened accidently sometimes.
