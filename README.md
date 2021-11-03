@@ -7,7 +7,7 @@
 * [Deck](#Deck)
 * [Trucks](#Trucks)
 * [Wheels](#Wheels)
-* [Lego pieces](#Legopieces)
+* [Lego pieces](#Lego pieces)
 * [Configurations](#Configurations)
 * [Duck](#Duck)
 
