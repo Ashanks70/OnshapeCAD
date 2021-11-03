@@ -127,7 +127,7 @@ this part was a little confusing and it took me a little bit to figure out how t
 ### Description
 Just a simple red Lego brick with a linear pattern and an extrude with a fillet
 ### Picture
-
+![Lego](Bricks.png)
 ### Link
 
 [document](https://cvilleschools.onshape.com/documents/c7d7475abdd148eda882e2c0/w/ddaf50f9af35df975fd694a6/e/4f755a69f033e046510ba956)
@@ -141,7 +141,8 @@ This part was quick to make the only new part was the introduction of a few vari
 ### Description
 the settings to make it any required size were made so you can have any type of piece
 ### Picture
-
+![config1](configurations.png)
+![config2](configurations2.png)
 ### Link
 
 [document](https://cvilleschools.onshape.com/documents/c7d7475abdd148eda882e2c0/w/ddaf50f9af35df975fd694a6/e/4f755a69f033e046510ba956)
@@ -154,7 +155,7 @@ this part was more complicated because I needed to learn to use configurations a
 ### Description
 
 ### Picture
-
+![duck](Duck.png)
 ### Link
 
 [document](https://cvilleschools.onshape.com/documents/c7d7475abdd148eda882e2c0/w/ddaf50f9af35df975fd694a6/e/4f755a69f033e046510ba956)
