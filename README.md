@@ -2,11 +2,14 @@
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
+* [CAD_Swing_Arm](#CAD_Swing_Arm)
 * [Skateboard](#Skateboard)
 * [Deck](#Deck)
 * [Trucks](#Trucks)
 * [Wheels](#Wheels)
-* [CAD_Swing_Arm](#CAD_Swing_Arm)
+* [Lego pieces](#Legopieces)
+* [Configurations](#Configurations)
+* [Duck](#Duck)
 
 
 ## CAD_Swing_Arm 
@@ -150,7 +153,7 @@ the settings to make it any required size were made so you can have any type of 
 ### Reflection
 this part was more complicated because I needed to learn to use configurations and learned that one must click the setting they wish to put into it and not just the part as a whole.
 
-## Lego pieces
+## Duck
 
 ### Description
 
