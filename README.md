@@ -175,6 +175,8 @@ this is a multi-tool that can measure distances as well as a protracter and can 
 
 ### Picture
 
+![multi-tool](Multitool.png)
+
 ### Link
 
 [multi-tool](https://cvilleschools.onshape.com/documents/54578d8539296fcc0d037657/w/a3231cfc037cdefb4a88ed74/e/229a352f9988c1a3956ff68c)
